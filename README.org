@@ -6,7 +6,7 @@ items.
 
 |---------+----------------------------------------------------|
 | source  | git:https://gitlab.com/naive-x/cl-naive-ptrees.git |
-| commit  | b5b2c88                                            |
+| commit  | d8eea4c                                            |
 | systems | cl-naive-ptrees                                    |
 |---------+----------------------------------------------------|
 
